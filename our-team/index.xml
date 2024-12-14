@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ethical Sustainable Properties on Home</title>
-    <link>https://www.ethicalsustainableproperties.org/</link>
-    <description>Recent content in Ethical Sustainable Properties on Home</description>
+    <title>Our-Team on Home</title>
+    <link>https://www.ethicalsustainableproperties.org/our-team/</link>
+    <description>Recent content in Our-Team on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Dec 2024 12:02:49 +0000</lastBuildDate>
-    <atom:link href="https://www.ethicalsustainableproperties.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ethicalsustainableproperties.org/our-team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Larch</title>
       <link>https://www.ethicalsustainableproperties.org/our-team/larch/</link>
@@ -28,20 +28,6 @@
       <pubDate>Sat, 14 Dec 2024 12:02:42 +0000</pubDate>
       <guid>https://www.ethicalsustainableproperties.org/our-team/tony/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://www.ethicalsustainableproperties.org/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ethicalsustainableproperties.org/contact/</guid>
-      <description>Loading...&#xD;</description>
-    </item>
-    <item>
-      <title>Register</title>
-      <link>https://www.ethicalsustainableproperties.org/register/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ethicalsustainableproperties.org/register/</guid>
-      <description>Whether you would like to live in one of our properties, invest, volunteer and / or donate:&#xA;Loading...&#xD;</description>
     </item>
   </channel>
 </rss>

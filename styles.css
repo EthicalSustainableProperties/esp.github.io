@@ -1,0 +1,60 @@
+.bio-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center; /* Centers the text */
+    margin: 0 auto;     /* Ensures even margins */
+    padding: 20px 0;    /* Optional: Adds some spacing */
+}
+
+.bio-entry {
+    display: flex;
+    align-items: flex-start; /* Aligns the text with the top of the image */
+    margin-bottom: 20px;
+    max-width: 800px; /* Optional: Limits the width of each entry */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bio-image {
+    display: flex;
+    flex-direction: column; /* Stacks the image and title vertically */
+    align-items: center; /* Centers the title below the image */
+    margin-right: 20px;
+}
+
+.bio-image img {
+    width: 150px; /* Adjust the size of the image */
+    height: auto;
+    border-radius: 5%; /* Makes the image circular */
+}
+
+.bio-image h2 {
+    margin-top: 10px; /* Adds space between the image and the title */
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.bio-content {
+    flex: 1; /* Makes the content take up the remaining space */
+}
+
+.bio-content p {
+    margin: 5px 0;
+}
+
+.bio-container {
+    border: 5px solid #F4F4F4; /* Adds a 5-pixel border around the content */
+    padding: 0px;          /* Adds space between the border and content */
+    margin: 0px;           /* Prevents the container from touching the edges of the page */
+    box-sizing: border-box; /* Ensures padding is included in total width/height */
+}
+
+/* Ensure proper responsiveness for smaller screens */
+.bio-container {
+    max-width: 95%; /* Prevents the container from expanding beyond 95% of the screen width */
+    margin: 10px auto; /* Centers the container and adds spacing */
+}
